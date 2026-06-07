@@ -112,5 +112,7 @@ The Python script (scripts/etl.py) performs the following:
 
 ## Author
 Saquib Attar
+
 M.Eng Information Technology — Frankfurt University of Applied Sciences
+
 https://www.linkedin.com/in/saquib-attar-0404/
