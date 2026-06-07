@@ -15,6 +15,7 @@ insights across departments, salary bands, job roles, and satisfaction levels.
 - Power BI Desktop — data modelling, DAX, dashboard design
 
 ## Project Structure
+```
 hr-analytics-powerbi/
 │
 ├── data/
@@ -38,6 +39,7 @@ hr-analytics-powerbi/
 │   └── salary_compensation.png
 │
 └── README.md
+```
 
 ## ETL Pipeline
 The Python script (scripts/etl.py) performs the following:
