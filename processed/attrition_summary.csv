@@ -1,0 +1,269 @@
+Department,JobRole,TenureBand,AgeBand,OverTime,TotalEmployees,AttritionCount,AvgSatisfaction,AvgMonthlyIncome,AttritionRate
+Human Resources,Human Resources,0-2 yrs,18-25,No,4,2,3.0,2112.75,50.0
+Human Resources,Human Resources,0-2 yrs,26-35,No,5,3,2.55,3555.0,60.0
+Human Resources,Human Resources,0-2 yrs,26-35,Yes,1,1,2.25,2335.0,100.0
+Human Resources,Human Resources,0-2 yrs,36-45,No,1,0,2.5,5985.0,0.0
+Human Resources,Human Resources,0-2 yrs,36-45,Yes,1,0,2.75,3195.0,0.0
+Human Resources,Human Resources,0-2 yrs,55+,No,1,0,2.75,2267.0,0.0
+Human Resources,Human Resources,3-5 yrs,26-35,No,8,1,2.91,3206.88,12.5
+Human Resources,Human Resources,3-5 yrs,26-35,Yes,3,2,2.83,4791.67,66.67
+Human Resources,Human Resources,3-5 yrs,36-45,No,6,0,2.71,5357.83,0.0
+Human Resources,Human Resources,3-5 yrs,36-45,Yes,2,1,2.88,2384.5,50.0
+Human Resources,Human Resources,3-5 yrs,46-55,Yes,1,0,2.75,5021.0,0.0
+Human Resources,Human Resources,6-10 yrs,26-35,No,3,0,2.67,5140.0,0.0
+Human Resources,Human Resources,6-10 yrs,26-35,Yes,2,1,2.75,5789.0,50.0
+Human Resources,Human Resources,6-10 yrs,36-45,No,7,0,2.71,4140.43,0.0
+Human Resources,Human Resources,6-10 yrs,36-45,Yes,2,0,2.75,4367.0,0.0
+Human Resources,Human Resources,6-10 yrs,46-55,No,2,0,3.0,7074.0,0.0
+Human Resources,Human Resources,10+ yrs,26-35,Yes,1,0,3.0,6347.0,0.0
+Human Resources,Human Resources,10+ yrs,36-45,No,2,1,2.5,6537.0,50.0
+Human Resources,Manager,3-5 yrs,46-55,No,1,0,3.25,19658.0,0.0
+Human Resources,Manager,3-5 yrs,46-55,Yes,1,0,3.5,17328.0,0.0
+Human Resources,Manager,3-5 yrs,55+,No,1,0,3.5,18844.0,0.0
+Human Resources,Manager,6-10 yrs,46-55,Yes,1,0,2.25,19636.0,0.0
+Human Resources,Manager,6-10 yrs,55+,No,1,0,2.5,19717.0,0.0
+Human Resources,Manager,10+ yrs,36-45,No,3,0,2.67,18376.33,0.0
+Human Resources,Manager,10+ yrs,36-45,Yes,1,0,3.5,16437.0,0.0
+Human Resources,Manager,10+ yrs,46-55,No,1,0,2.25,18200.0,0.0
+Human Resources,Manager,10+ yrs,46-55,Yes,1,0,2.5,14026.0,0.0
+Research & Development,Healthcare Representative,0-2 yrs,26-35,No,3,1,2.42,7152.33,33.33
+Research & Development,Healthcare Representative,0-2 yrs,26-35,Yes,1,0,2.75,6388.0,0.0
+Research & Development,Healthcare Representative,0-2 yrs,36-45,No,8,1,2.5,6605.75,12.5
+Research & Development,Healthcare Representative,0-2 yrs,36-45,Yes,3,1,2.83,5517.67,33.33
+Research & Development,Healthcare Representative,0-2 yrs,46-55,No,2,0,2.62,7383.5,0.0
+Research & Development,Healthcare Representative,0-2 yrs,55+,No,1,0,3.5,10883.0,0.0
+Research & Development,Healthcare Representative,3-5 yrs,18-25,No,1,0,2.25,4617.0,0.0
+Research & Development,Healthcare Representative,3-5 yrs,26-35,No,5,0,2.65,6450.0,0.0
+Research & Development,Healthcare Representative,3-5 yrs,26-35,Yes,4,0,2.69,6765.25,0.0
+Research & Development,Healthcare Representative,3-5 yrs,36-45,No,11,0,2.5,5976.82,0.0
+Research & Development,Healthcare Representative,3-5 yrs,36-45,Yes,2,0,3.62,5493.5,0.0
+Research & Development,Healthcare Representative,3-5 yrs,46-55,No,5,0,2.85,8902.6,0.0
+Research & Development,Healthcare Representative,3-5 yrs,46-55,Yes,1,0,3.0,4035.0,0.0
+Research & Development,Healthcare Representative,3-5 yrs,55+,No,1,0,3.25,6755.0,0.0
+Research & Development,Healthcare Representative,3-5 yrs,55+,Yes,2,0,3.0,7549.5,0.0
+Research & Development,Healthcare Representative,6-10 yrs,18-25,No,1,0,2.5,4000.0,0.0
+Research & Development,Healthcare Representative,6-10 yrs,26-35,No,15,1,2.65,6938.47,6.67
+Research & Development,Healthcare Representative,6-10 yrs,26-35,Yes,9,1,2.89,6062.78,11.11
+Research & Development,Healthcare Representative,6-10 yrs,36-45,No,13,1,2.71,6679.31,7.69
+Research & Development,Healthcare Representative,6-10 yrs,36-45,Yes,3,0,2.33,8513.67,0.0
+Research & Development,Healthcare Representative,6-10 yrs,46-55,No,5,1,2.95,9826.6,20.0
+Research & Development,Healthcare Representative,6-10 yrs,46-55,Yes,3,0,2.83,10340.67,0.0
+Research & Development,Healthcare Representative,6-10 yrs,55+,No,1,0,3.0,11103.0,0.0
+Research & Development,Healthcare Representative,6-10 yrs,55+,Yes,1,0,3.0,10552.0,0.0
+Research & Development,Healthcare Representative,10+ yrs,26-35,No,6,0,3.0,6110.17,0.0
+Research & Development,Healthcare Representative,10+ yrs,26-35,Yes,1,0,2.75,10388.0,0.0
+Research & Development,Healthcare Representative,10+ yrs,36-45,No,11,1,2.8,9762.73,9.09
+Research & Development,Healthcare Representative,10+ yrs,36-45,Yes,4,0,2.88,9631.75,0.0
+Research & Development,Healthcare Representative,10+ yrs,46-55,No,3,0,2.25,9038.67,0.0
+Research & Development,Healthcare Representative,10+ yrs,46-55,Yes,3,0,2.92,12929.33,0.0
+Research & Development,Healthcare Representative,10+ yrs,55+,No,2,1,2.88,8309.0,50.0
+Research & Development,Laboratory Technician,0-2 yrs,18-25,No,17,9,2.6,2365.47,52.94
+Research & Development,Laboratory Technician,0-2 yrs,18-25,Yes,6,4,2.71,2834.83,66.67
+Research & Development,Laboratory Technician,0-2 yrs,26-35,No,24,7,2.71,2636.92,29.17
+Research & Development,Laboratory Technician,0-2 yrs,26-35,Yes,12,8,2.77,2773.67,66.67
+Research & Development,Laboratory Technician,0-2 yrs,36-45,No,13,1,2.79,3547.0,7.69
+Research & Development,Laboratory Technician,0-2 yrs,36-45,Yes,6,4,2.75,2961.5,66.67
+Research & Development,Laboratory Technician,0-2 yrs,46-55,No,6,0,2.92,2747.67,0.0
+Research & Development,Laboratory Technician,0-2 yrs,46-55,Yes,2,1,2.5,3984.0,50.0
+Research & Development,Laboratory Technician,0-2 yrs,55+,Yes,2,1,2.62,2525.0,50.0
+Research & Development,Laboratory Technician,3-5 yrs,18-25,No,10,0,2.68,2959.6,0.0
+Research & Development,Laboratory Technician,3-5 yrs,18-25,Yes,1,1,2.75,3989.0,100.0
+Research & Development,Laboratory Technician,3-5 yrs,26-35,No,32,5,2.63,3078.34,15.62
+Research & Development,Laboratory Technician,3-5 yrs,26-35,Yes,9,5,2.83,2836.33,55.56
+Research & Development,Laboratory Technician,3-5 yrs,36-45,No,22,2,2.57,2867.45,9.09
+Research & Development,Laboratory Technician,3-5 yrs,36-45,Yes,4,1,2.19,3944.25,25.0
+Research & Development,Laboratory Technician,3-5 yrs,46-55,No,6,1,2.46,3489.5,16.67
+Research & Development,Laboratory Technician,3-5 yrs,55+,No,1,1,3.0,2587.0,100.0
+Research & Development,Laboratory Technician,6-10 yrs,18-25,No,1,0,2.25,3907.0,0.0
+Research & Development,Laboratory Technician,6-10 yrs,18-25,Yes,2,2,3.12,3288.5,100.0
+Research & Development,Laboratory Technician,6-10 yrs,26-35,No,29,3,2.72,3849.76,10.34
+Research & Development,Laboratory Technician,6-10 yrs,26-35,Yes,6,3,2.75,4262.33,50.0
+Research & Development,Laboratory Technician,6-10 yrs,36-45,No,16,0,2.77,3812.31,0.0
+Research & Development,Laboratory Technician,6-10 yrs,36-45,Yes,8,1,2.97,3984.75,12.5
+Research & Development,Laboratory Technician,6-10 yrs,46-55,No,2,0,2.38,3024.5,0.0
+Research & Development,Laboratory Technician,6-10 yrs,46-55,Yes,1,0,3.25,5415.0,0.0
+Research & Development,Laboratory Technician,6-10 yrs,55+,No,1,1,3.0,2339.0,100.0
+Research & Development,Laboratory Technician,10+ yrs,26-35,No,8,0,3.03,3458.12,0.0
+Research & Development,Laboratory Technician,10+ yrs,26-35,Yes,1,0,2.5,5207.0,0.0
+Research & Development,Laboratory Technician,10+ yrs,36-45,No,8,1,2.66,3581.38,12.5
+Research & Development,Laboratory Technician,10+ yrs,36-45,Yes,1,0,2.75,4721.0,0.0
+Research & Development,Laboratory Technician,10+ yrs,46-55,No,1,0,2.0,7403.0,0.0
+Research & Development,Laboratory Technician,10+ yrs,46-55,Yes,1,0,3.25,3221.0,0.0
+Research & Development,Manager,0-2 yrs,36-45,No,2,0,3.12,18837.0,0.0
+Research & Development,Manager,0-2 yrs,36-45,Yes,1,0,3.25,19513.0,0.0
+Research & Development,Manager,0-2 yrs,46-55,No,4,0,2.81,16221.25,0.0
+Research & Development,Manager,3-5 yrs,26-35,No,1,0,3.25,11244.0,0.0
+Research & Development,Manager,3-5 yrs,46-55,No,4,0,2.5,17192.0,0.0
+Research & Development,Manager,3-5 yrs,46-55,Yes,3,1,3.17,17091.33,33.33
+Research & Development,Manager,3-5 yrs,55+,No,1,0,3.0,19943.0,0.0
+Research & Development,Manager,6-10 yrs,26-35,No,2,0,2.38,11937.0,0.0
+Research & Development,Manager,6-10 yrs,26-35,Yes,2,1,2.88,12763.0,50.0
+Research & Development,Manager,6-10 yrs,36-45,No,2,0,2.75,18306.0,0.0
+Research & Development,Manager,6-10 yrs,46-55,No,5,0,2.75,17053.2,0.0
+Research & Development,Manager,6-10 yrs,46-55,Yes,1,1,2.25,11849.0,100.0
+Research & Development,Manager,10+ yrs,26-35,No,1,0,2.75,11631.0,0.0
+Research & Development,Manager,10+ yrs,36-45,No,11,0,2.68,18537.36,0.0
+Research & Development,Manager,10+ yrs,36-45,Yes,4,0,2.88,17812.25,0.0
+Research & Development,Manager,10+ yrs,46-55,No,7,0,2.79,18065.14,0.0
+Research & Development,Manager,10+ yrs,46-55,Yes,2,0,2.88,17898.5,0.0
+Research & Development,Manager,10+ yrs,55+,No,1,0,1.75,19566.0,0.0
+Research & Development,Manufacturing Director,0-2 yrs,18-25,No,1,0,2.5,4775.0,0.0
+Research & Development,Manufacturing Director,0-2 yrs,26-35,No,4,0,2.81,7115.0,0.0
+Research & Development,Manufacturing Director,0-2 yrs,26-35,Yes,2,1,2.5,6396.5,50.0
+Research & Development,Manufacturing Director,0-2 yrs,36-45,No,5,1,2.7,6949.0,20.0
+Research & Development,Manufacturing Director,0-2 yrs,36-45,Yes,4,0,2.62,7195.75,0.0
+Research & Development,Manufacturing Director,0-2 yrs,46-55,No,2,0,3.0,5695.0,0.0
+Research & Development,Manufacturing Director,3-5 yrs,18-25,No,3,0,2.75,4428.67,0.0
+Research & Development,Manufacturing Director,3-5 yrs,18-25,Yes,1,1,2.5,4171.0,100.0
+Research & Development,Manufacturing Director,3-5 yrs,26-35,No,10,0,2.9,4586.6,0.0
+Research & Development,Manufacturing Director,3-5 yrs,26-35,Yes,1,0,3.25,4788.0,0.0
+Research & Development,Manufacturing Director,3-5 yrs,36-45,No,8,1,2.72,5257.88,12.5
+Research & Development,Manufacturing Director,3-5 yrs,36-45,Yes,7,0,3.25,7240.71,0.0
+Research & Development,Manufacturing Director,3-5 yrs,46-55,No,7,1,2.75,8610.29,14.29
+Research & Development,Manufacturing Director,3-5 yrs,46-55,Yes,5,0,2.75,8821.2,0.0
+Research & Development,Manufacturing Director,3-5 yrs,55+,Yes,1,0,2.75,13726.0,0.0
+Research & Development,Manufacturing Director,6-10 yrs,18-25,No,1,0,3.25,5206.0,0.0
+Research & Development,Manufacturing Director,6-10 yrs,26-35,No,20,1,2.58,7833.1,5.0
+Research & Development,Manufacturing Director,6-10 yrs,26-35,Yes,5,1,2.75,5646.8,20.0
+Research & Development,Manufacturing Director,6-10 yrs,36-45,No,19,1,2.61,6304.95,5.26
+Research & Development,Manufacturing Director,6-10 yrs,36-45,Yes,2,0,2.62,8829.0,0.0
+Research & Development,Manufacturing Director,6-10 yrs,46-55,No,7,0,3.14,9153.57,0.0
+Research & Development,Manufacturing Director,6-10 yrs,46-55,Yes,1,0,3.0,6804.0,0.0
+Research & Development,Manufacturing Director,6-10 yrs,55+,No,2,0,3.12,8886.0,0.0
+Research & Development,Manufacturing Director,6-10 yrs,55+,Yes,1,1,2.5,10008.0,100.0
+Research & Development,Manufacturing Director,10+ yrs,26-35,No,8,0,2.78,7371.12,0.0
+Research & Development,Manufacturing Director,10+ yrs,26-35,Yes,2,0,3.0,8914.0,0.0
+Research & Development,Manufacturing Director,10+ yrs,36-45,No,7,0,2.79,10442.14,0.0
+Research & Development,Manufacturing Director,10+ yrs,36-45,Yes,3,0,2.67,7423.33,0.0
+Research & Development,Manufacturing Director,10+ yrs,46-55,No,2,1,2.62,8368.0,50.0
+Research & Development,Manufacturing Director,10+ yrs,46-55,Yes,3,0,3.17,9791.0,0.0
+Research & Development,Manufacturing Director,10+ yrs,55+,Yes,1,0,2.5,13402.0,0.0
+Research & Development,Research Director,0-2 yrs,26-35,No,1,0,2.25,13675.0,0.0
+Research & Development,Research Director,0-2 yrs,36-45,No,1,0,2.5,15992.0,0.0
+Research & Development,Research Director,0-2 yrs,36-45,Yes,3,0,2.5,14354.33,0.0
+Research & Development,Research Director,0-2 yrs,46-55,No,3,0,3.25,18976.67,0.0
+Research & Development,Research Director,0-2 yrs,46-55,Yes,1,0,3.25,19328.0,0.0
+Research & Development,Research Director,0-2 yrs,55+,Yes,1,0,2.25,15787.0,0.0
+Research & Development,Research Director,3-5 yrs,26-35,No,1,0,2.5,16422.0,0.0
+Research & Development,Research Director,3-5 yrs,36-45,No,3,0,2.5,14762.33,0.0
+Research & Development,Research Director,3-5 yrs,36-45,Yes,1,0,2.25,13603.0,0.0
+Research & Development,Research Director,3-5 yrs,46-55,No,10,0,2.55,17362.3,0.0
+Research & Development,Research Director,3-5 yrs,46-55,Yes,3,0,2.75,17709.67,0.0
+Research & Development,Research Director,6-10 yrs,26-35,No,4,0,2.94,13850.5,0.0
+Research & Development,Research Director,6-10 yrs,26-35,Yes,2,0,2.5,12112.0,0.0
+Research & Development,Research Director,6-10 yrs,36-45,No,4,0,2.44,14317.75,0.0
+Research & Development,Research Director,6-10 yrs,36-45,Yes,1,0,3.0,12185.0,0.0
+Research & Development,Research Director,6-10 yrs,46-55,No,5,0,2.55,16148.6,0.0
+Research & Development,Research Director,6-10 yrs,46-55,Yes,2,0,2.12,18704.5,0.0
+Research & Development,Research Director,6-10 yrs,55+,Yes,1,0,2.75,19701.0,0.0
+Research & Development,Research Director,10+ yrs,26-35,No,4,0,2.81,12930.75,0.0
+Research & Development,Research Director,10+ yrs,26-35,Yes,1,0,2.75,13458.0,0.0
+Research & Development,Research Director,10+ yrs,36-45,No,13,1,2.62,16661.92,7.69
+Research & Development,Research Director,10+ yrs,36-45,Yes,3,0,2.92,14767.67,0.0
+Research & Development,Research Director,10+ yrs,46-55,No,8,0,2.84,16490.25,0.0
+Research & Development,Research Director,10+ yrs,46-55,Yes,3,0,3.17,17551.0,0.0
+Research & Development,Research Director,10+ yrs,55+,Yes,1,1,3.25,19246.0,100.0
+Research & Development,Research Scientist,0-2 yrs,18-25,No,15,1,3.02,2274.73,6.67
+Research & Development,Research Scientist,0-2 yrs,18-25,Yes,8,6,2.78,2268.75,75.0
+Research & Development,Research Scientist,0-2 yrs,26-35,No,22,3,2.75,2616.09,13.64
+Research & Development,Research Scientist,0-2 yrs,26-35,Yes,9,5,2.75,2786.56,55.56
+Research & Development,Research Scientist,0-2 yrs,36-45,No,14,1,2.59,3371.5,7.14
+Research & Development,Research Scientist,0-2 yrs,36-45,Yes,10,3,2.98,3494.8,30.0
+Research & Development,Research Scientist,0-2 yrs,46-55,No,2,0,2.62,2491.0,0.0
+Research & Development,Research Scientist,0-2 yrs,55+,No,3,1,2.75,2342.67,33.33
+Research & Development,Research Scientist,0-2 yrs,55+,Yes,2,0,2.25,3801.5,0.0
+Research & Development,Research Scientist,3-5 yrs,18-25,No,6,0,2.75,3358.83,0.0
+Research & Development,Research Scientist,3-5 yrs,18-25,Yes,2,0,2.25,2571.0,0.0
+Research & Development,Research Scientist,3-5 yrs,26-35,No,43,1,2.71,2840.86,2.33
+Research & Development,Research Scientist,3-5 yrs,26-35,Yes,20,8,2.71,2997.4,40.0
+Research & Development,Research Scientist,3-5 yrs,36-45,No,15,1,2.92,3193.07,6.67
+Research & Development,Research Scientist,3-5 yrs,36-45,Yes,12,1,2.73,3611.0,8.33
+Research & Development,Research Scientist,3-5 yrs,46-55,No,6,0,2.71,3633.83,0.0
+Research & Development,Research Scientist,3-5 yrs,55+,No,2,0,2.38,2504.0,0.0
+Research & Development,Research Scientist,3-5 yrs,55+,Yes,1,1,2.0,4963.0,100.0
+Research & Development,Research Scientist,6-10 yrs,18-25,Yes,2,0,2.75,3242.5,0.0
+Research & Development,Research Scientist,6-10 yrs,26-35,No,35,4,2.69,3553.09,11.43
+Research & Development,Research Scientist,6-10 yrs,26-35,Yes,16,7,2.7,3238.44,43.75
+Research & Development,Research Scientist,6-10 yrs,36-45,No,13,0,2.58,3645.77,0.0
+Research & Development,Research Scientist,6-10 yrs,36-45,Yes,6,1,2.5,3916.0,16.67
+Research & Development,Research Scientist,6-10 yrs,46-55,No,6,1,2.67,4696.5,16.67
+Research & Development,Research Scientist,6-10 yrs,46-55,Yes,2,1,2.62,4019.0,50.0
+Research & Development,Research Scientist,10+ yrs,26-35,No,6,1,2.58,4897.5,16.67
+Research & Development,Research Scientist,10+ yrs,26-35,Yes,2,0,2.75,4663.0,0.0
+Research & Development,Research Scientist,10+ yrs,36-45,No,6,0,3.08,4170.0,0.0
+Research & Development,Research Scientist,10+ yrs,36-45,Yes,4,0,2.5,3998.0,0.0
+Research & Development,Research Scientist,10+ yrs,46-55,Yes,1,0,2.25,4615.0,0.0
+Research & Development,Research Scientist,10+ yrs,55+,No,1,0,2.0,4900.0,0.0
+Sales,Manager,0-2 yrs,36-45,No,1,0,3.25,18303.0,0.0
+Sales,Manager,0-2 yrs,36-45,Yes,1,0,3.5,13591.0,0.0
+Sales,Manager,0-2 yrs,46-55,No,2,0,2.0,15725.5,0.0
+Sales,Manager,0-2 yrs,46-55,Yes,1,0,3.0,19331.0,0.0
+Sales,Manager,0-2 yrs,55+,No,1,0,2.5,14118.0,0.0
+Sales,Manager,0-2 yrs,55+,Yes,1,0,3.25,17875.0,0.0
+Sales,Manager,3-5 yrs,26-35,No,1,0,3.0,11557.0,0.0
+Sales,Manager,3-5 yrs,46-55,No,1,0,2.5,15972.0,0.0
+Sales,Manager,6-10 yrs,26-35,No,1,0,3.5,17444.0,0.0
+Sales,Manager,6-10 yrs,36-45,No,1,0,3.5,17650.0,0.0
+Sales,Manager,6-10 yrs,46-55,No,2,0,2.88,18176.0,0.0
+Sales,Manager,6-10 yrs,46-55,Yes,1,0,2.25,16872.0,0.0
+Sales,Manager,6-10 yrs,55+,Yes,1,0,2.5,11904.0,0.0
+Sales,Manager,10+ yrs,36-45,No,5,0,2.5,17739.4,0.0
+Sales,Manager,10+ yrs,36-45,Yes,3,1,3.0,17282.33,33.33
+Sales,Manager,10+ yrs,46-55,No,11,1,2.7,17304.36,9.09
+Sales,Manager,10+ yrs,46-55,Yes,2,0,2.62,19457.5,0.0
+Sales,Manager,10+ yrs,55+,No,1,0,2.5,16291.0,0.0
+Sales,Sales Executive,0-2 yrs,18-25,No,2,1,2.38,6608.0,50.0
+Sales,Sales Executive,0-2 yrs,26-35,No,9,3,2.44,5909.44,33.33
+Sales,Sales Executive,0-2 yrs,26-35,Yes,7,5,2.79,6745.29,71.43
+Sales,Sales Executive,0-2 yrs,36-45,No,12,1,2.81,6908.33,8.33
+Sales,Sales Executive,0-2 yrs,36-45,Yes,7,3,2.86,7184.29,42.86
+Sales,Sales Executive,0-2 yrs,46-55,No,7,0,2.71,8265.43,0.0
+Sales,Sales Executive,0-2 yrs,46-55,Yes,2,2,2.5,7588.0,100.0
+Sales,Sales Executive,0-2 yrs,55+,No,2,0,2.5,5392.5,0.0
+Sales,Sales Executive,3-5 yrs,18-25,No,5,0,2.4,5057.6,0.0
+Sales,Sales Executive,3-5 yrs,18-25,Yes,5,0,2.9,4402.0,0.0
+Sales,Sales Executive,3-5 yrs,26-35,No,38,5,2.65,5926.68,13.16
+Sales,Sales Executive,3-5 yrs,26-35,Yes,10,3,2.75,6198.4,30.0
+Sales,Sales Executive,3-5 yrs,36-45,No,15,1,2.57,5745.6,6.67
+Sales,Sales Executive,3-5 yrs,36-45,Yes,9,1,2.72,7604.22,11.11
+Sales,Sales Executive,3-5 yrs,46-55,No,2,0,3.0,7551.5,0.0
+Sales,Sales Executive,3-5 yrs,46-55,Yes,6,3,2.79,8107.17,50.0
+Sales,Sales Executive,3-5 yrs,55+,No,1,0,2.5,5473.0,0.0
+Sales,Sales Executive,6-10 yrs,18-25,No,1,0,2.75,6180.0,0.0
+Sales,Sales Executive,6-10 yrs,18-25,Yes,1,1,3.25,5744.0,100.0
+Sales,Sales Executive,6-10 yrs,26-35,No,50,3,2.82,6522.54,6.0
+Sales,Sales Executive,6-10 yrs,26-35,Yes,18,5,2.93,6607.28,27.78
+Sales,Sales Executive,6-10 yrs,36-45,No,29,1,2.69,7097.72,3.45
+Sales,Sales Executive,6-10 yrs,36-45,Yes,8,2,2.5,7008.62,25.0
+Sales,Sales Executive,6-10 yrs,46-55,No,14,6,2.91,7292.36,42.86
+Sales,Sales Executive,6-10 yrs,46-55,Yes,6,1,2.83,6454.5,16.67
+Sales,Sales Executive,6-10 yrs,55+,No,2,0,3.0,9191.5,0.0
+Sales,Sales Executive,10+ yrs,26-35,No,16,3,2.66,7481.56,18.75
+Sales,Sales Executive,10+ yrs,26-35,Yes,6,2,2.83,5665.83,33.33
+Sales,Sales Executive,10+ yrs,36-45,No,18,1,2.72,8261.67,5.56
+Sales,Sales Executive,10+ yrs,36-45,Yes,6,2,2.92,10754.33,33.33
+Sales,Sales Executive,10+ yrs,46-55,No,6,1,2.54,9811.17,16.67
+Sales,Sales Executive,10+ yrs,46-55,Yes,2,1,2.75,13732.5,50.0
+Sales,Sales Executive,10+ yrs,55+,No,3,0,2.67,10591.67,0.0
+Sales,Sales Executive,10+ yrs,55+,Yes,1,0,2.75,5220.0,0.0
+Sales,Sales Representative,0-2 yrs,18-25,No,12,5,2.71,2308.17,41.67
+Sales,Sales Representative,0-2 yrs,18-25,Yes,8,7,3.06,1934.62,87.5
+Sales,Sales Representative,0-2 yrs,26-35,No,21,7,2.77,2277.14,33.33
+Sales,Sales Representative,0-2 yrs,26-35,Yes,2,1,3.12,2535.5,50.0
+Sales,Sales Representative,0-2 yrs,36-45,No,3,1,2.58,2614.33,33.33
+Sales,Sales Representative,0-2 yrs,46-55,No,2,0,2.75,3425.5,0.0
+Sales,Sales Representative,3-5 yrs,18-25,No,3,1,2.33,3485.67,33.33
+Sales,Sales Representative,3-5 yrs,18-25,Yes,3,3,2.42,2550.33,100.0
+Sales,Sales Representative,3-5 yrs,26-35,No,9,2,2.69,2802.22,22.22
+Sales,Sales Representative,3-5 yrs,26-35,Yes,2,2,2.75,2551.0,100.0
+Sales,Sales Representative,3-5 yrs,36-45,No,2,1,2.62,3190.0,50.0
+Sales,Sales Representative,3-5 yrs,36-45,Yes,3,1,2.67,3729.67,33.33
+Sales,Sales Representative,3-5 yrs,46-55,Yes,2,1,2.62,2988.5,50.0
+Sales,Sales Representative,6-10 yrs,18-25,No,1,0,2.75,2096.0,0.0
+Sales,Sales Representative,6-10 yrs,26-35,No,2,0,2.88,2934.5,0.0
+Sales,Sales Representative,6-10 yrs,26-35,Yes,1,0,3.25,2579.0,0.0
+Sales,Sales Representative,6-10 yrs,36-45,No,2,0,2.5,4712.5,0.0
+Sales,Sales Representative,6-10 yrs,46-55,No,1,0,2.25,3482.0,0.0
+Sales,Sales Representative,6-10 yrs,46-55,Yes,2,1,2.88,2480.5,50.0
+Sales,Sales Representative,10+ yrs,26-35,Yes,1,0,2.5,2308.0,0.0
+Sales,Sales Representative,10+ yrs,36-45,No,1,0,3.0,4502.0,0.0

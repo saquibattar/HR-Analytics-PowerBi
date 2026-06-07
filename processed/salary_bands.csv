@@ -1,0 +1,153 @@
+Department,JobRole,SalaryBand,Gender,EducationField,EmployeeCount,AvgMonthlyIncome,AvgJobLevel,AvgPerformanceRating
+Human Resources,Human Resources,High,Female,Human Resources,1,9950.0,3.0,3.0
+Human Resources,Human Resources,High,Female,Life Sciences,2,9296.5,3.0,3.5
+Human Resources,Human Resources,High,Male,Medical,2,10603.5,3.0,3.0
+Human Resources,Human Resources,High,Male,Other,1,7988.0,3.0,3.0
+Human Resources,Human Resources,Low,Female,Human Resources,3,2410.0,1.0,3.0
+Human Resources,Human Resources,Low,Female,Life Sciences,4,3075.25,1.0,3.25
+Human Resources,Human Resources,Low,Female,Medical,2,2128.5,1.0,3.0
+Human Resources,Human Resources,Low,Female,Technical Degree,1,2742.0,1.0,3.0
+Human Resources,Human Resources,Low,Male,Human Resources,8,2346.88,1.0,3.12
+Human Resources,Human Resources,Low,Male,Life Sciences,4,2662.75,1.0,3.5
+Human Resources,Human Resources,Low,Male,Medical,4,2348.25,1.0,3.0
+Human Resources,Human Resources,Low,Male,Other,1,2991.0,1.0,3.0
+Human Resources,Human Resources,Low,Male,Technical Degree,2,2630.0,1.0,3.0
+Human Resources,Human Resources,Mid,Female,Human Resources,1,6389.0,2.0,3.0
+Human Resources,Human Resources,Mid,Female,Life Sciences,2,5594.5,2.0,3.0
+Human Resources,Human Resources,Mid,Male,Human Resources,8,5278.75,1.75,3.12
+Human Resources,Human Resources,Mid,Male,Life Sciences,1,4490.0,2.0,3.0
+Human Resources,Human Resources,Mid,Male,Medical,3,5409.67,1.67,3.33
+Human Resources,Human Resources,Mid,Male,Other,1,4071.0,2.0,3.0
+Human Resources,Human Resources,Mid,Male,Technical Degree,1,4323.0,1.0,3.0
+Human Resources,Manager,High,Female,Human Resources,3,17657.0,4.33,3.33
+Human Resources,Manager,High,Female,Life Sciences,1,19658.0,5.0,3.0
+Human Resources,Manager,High,Male,Human Resources,3,19322.0,5.0,3.0
+Human Resources,Manager,High,Male,Life Sciences,2,16871.5,4.5,3.0
+Human Resources,Manager,High,Male,Medical,2,17318.5,4.5,3.5
+Research & Development,Healthcare Representative,High,Female,Life Sciences,9,8706.0,2.78,3.0
+Research & Development,Healthcare Representative,High,Female,Medical,13,9102.46,2.69,3.15
+Research & Development,Healthcare Representative,High,Female,Other,3,8026.33,2.33,3.0
+Research & Development,Healthcare Representative,High,Female,Technical Degree,6,9888.5,3.0,3.17
+Research & Development,Healthcare Representative,High,Male,Life Sciences,23,8935.39,2.74,3.22
+Research & Development,Healthcare Representative,High,Male,Medical,16,9788.19,3.06,3.12
+Research & Development,Healthcare Representative,High,Male,Other,3,8070.33,2.33,3.67
+Research & Development,Healthcare Representative,High,Male,Technical Degree,5,8726.4,2.8,3.2
+Research & Development,Healthcare Representative,Mid,Female,Life Sciences,6,4559.0,2.0,3.17
+Research & Development,Healthcare Representative,Mid,Female,Medical,9,5386.78,2.0,3.22
+Research & Development,Healthcare Representative,Mid,Female,Other,3,4705.67,2.0,3.0
+Research & Development,Healthcare Representative,Mid,Female,Technical Degree,2,4538.0,2.0,3.0
+Research & Development,Healthcare Representative,Mid,Male,Life Sciences,22,5294.68,2.0,3.09
+Research & Development,Healthcare Representative,Mid,Male,Medical,10,5563.0,2.0,3.2
+Research & Development,Healthcare Representative,Mid,Male,Technical Degree,1,5063.0,2.0,3.0
+Research & Development,Laboratory Technician,High,Female,Life Sciences,1,6674.0,2.0,3.0
+Research & Development,Laboratory Technician,High,Female,Other,1,7403.0,3.0,3.0
+Research & Development,Laboratory Technician,High,Male,Life Sciences,2,6627.0,2.0,3.0
+Research & Development,Laboratory Technician,Low,Female,Life Sciences,32,2616.59,1.06,3.16
+Research & Development,Laboratory Technician,Low,Female,Medical,23,2592.43,1.04,3.17
+Research & Development,Laboratory Technician,Low,Female,Other,2,2846.5,1.0,3.5
+Research & Development,Laboratory Technician,Low,Female,Technical Degree,2,3075.0,1.0,3.0
+Research & Development,Laboratory Technician,Low,Male,Life Sciences,51,2438.84,1.1,3.25
+Research & Development,Laboratory Technician,Low,Male,Medical,41,2602.15,1.12,3.15
+Research & Development,Laboratory Technician,Low,Male,Other,9,2391.67,1.0,3.11
+Research & Development,Laboratory Technician,Low,Male,Technical Degree,11,2703.91,1.09,3.0
+Research & Development,Laboratory Technician,Mid,Female,Life Sciences,8,4487.5,1.62,3.12
+Research & Development,Laboratory Technician,Mid,Female,Medical,13,4319.85,1.46,3.23
+Research & Development,Laboratory Technician,Mid,Female,Other,1,3702.0,1.0,3.0
+Research & Development,Laboratory Technician,Mid,Female,Technical Degree,2,5475.0,2.0,3.0
+Research & Development,Laboratory Technician,Mid,Male,Life Sciences,25,4748.92,1.72,3.16
+Research & Development,Laboratory Technician,Mid,Male,Medical,22,4274.95,1.32,3.09
+Research & Development,Laboratory Technician,Mid,Male,Other,9,4022.33,1.44,3.22
+Research & Development,Laboratory Technician,Mid,Male,Technical Degree,4,4469.0,1.25,3.0
+Research & Development,Manager,High,Female,Life Sciences,7,15997.43,4.0,3.0
+Research & Development,Manager,High,Female,Medical,13,16784.08,4.23,3.38
+Research & Development,Manager,High,Female,Other,2,17923.0,4.5,3.0
+Research & Development,Manager,High,Female,Technical Degree,2,16529.5,4.0,3.0
+Research & Development,Manager,High,Male,Life Sciences,14,17592.07,4.36,3.0
+Research & Development,Manager,High,Male,Medical,12,16842.42,4.17,3.33
+Research & Development,Manager,High,Male,Other,3,19442.67,5.0,3.33
+Research & Development,Manager,High,Male,Technical Degree,1,19232.0,5.0,3.0
+Research & Development,Manufacturing Director,High,Female,Life Sciences,18,9833.5,3.11,3.17
+Research & Development,Manufacturing Director,High,Female,Medical,13,9398.0,3.0,3.23
+Research & Development,Manufacturing Director,High,Female,Technical Degree,5,10358.6,3.2,3.2
+Research & Development,Manufacturing Director,High,Male,Life Sciences,21,9052.71,2.71,3.29
+Research & Development,Manufacturing Director,High,Male,Medical,8,9471.5,2.75,3.12
+Research & Development,Manufacturing Director,High,Male,Other,3,9870.67,2.67,3.33
+Research & Development,Manufacturing Director,High,Male,Technical Degree,4,8939.25,2.75,3.0
+Research & Development,Manufacturing Director,Mid,Female,Life Sciences,17,5294.29,2.0,3.24
+Research & Development,Manufacturing Director,Mid,Female,Medical,14,4818.0,2.0,3.07
+Research & Development,Manufacturing Director,Mid,Female,Other,4,4949.25,2.0,3.0
+Research & Development,Manufacturing Director,Mid,Female,Technical Degree,1,5238.0,2.0,4.0
+Research & Development,Manufacturing Director,Mid,Male,Life Sciences,15,5183.6,2.0,3.13
+Research & Development,Manufacturing Director,Mid,Male,Medical,18,5344.06,2.0,3.22
+Research & Development,Manufacturing Director,Mid,Male,Technical Degree,4,4785.0,2.0,3.0
+Research & Development,Research Director,High,Female,Life Sciences,16,14707.31,3.69,3.12
+Research & Development,Research Director,High,Female,Medical,12,15388.17,3.75,3.17
+Research & Development,Research Director,High,Female,Other,1,16413.0,4.0,3.0
+Research & Development,Research Director,High,Female,Technical Degree,4,15845.0,3.75,3.0
+Research & Development,Research Director,High,Male,Life Sciences,20,17365.4,4.4,3.1
+Research & Development,Research Director,High,Male,Medical,23,16554.04,4.09,3.09
+Research & Development,Research Director,High,Male,Other,3,14019.0,3.33,3.0
+Research & Development,Research Director,High,Male,Technical Degree,1,12808.0,3.0,3.0
+Research & Development,Research Scientist,High,Female,Life Sciences,1,6545.0,2.0,3.0
+Research & Development,Research Scientist,High,Female,Medical,1,6854.0,2.0,3.0
+Research & Development,Research Scientist,High,Female,Other,1,6962.0,2.0,4.0
+Research & Development,Research Scientist,High,Male,Life Sciences,2,8185.0,2.5,3.0
+Research & Development,Research Scientist,Low,Female,Life Sciences,36,2597.92,1.03,3.17
+Research & Development,Research Scientist,Low,Female,Medical,25,2487.76,1.08,3.24
+Research & Development,Research Scientist,Low,Female,Other,5,2710.8,1.0,3.0
+Research & Development,Research Scientist,Low,Female,Technical Degree,9,2684.0,1.0,3.11
+Research & Development,Research Scientist,Low,Male,Life Sciences,62,2645.23,1.02,3.19
+Research & Development,Research Scientist,Low,Male,Medical,46,2613.15,1.0,3.13
+Research & Development,Research Scientist,Low,Male,Other,4,2825.5,1.0,3.0
+Research & Development,Research Scientist,Low,Male,Technical Degree,21,2569.48,1.1,3.33
+Research & Development,Research Scientist,Mid,Female,Life Sciences,15,4826.67,1.6,3.13
+Research & Development,Research Scientist,Mid,Female,Medical,16,4597.88,1.56,3.12
+Research & Development,Research Scientist,Mid,Female,Other,2,4234.5,2.0,3.0
+Research & Development,Research Scientist,Mid,Female,Technical Degree,3,4348.33,1.33,3.33
+Research & Development,Research Scientist,Mid,Male,Life Sciences,17,4718.71,1.71,3.18
+Research & Development,Research Scientist,Mid,Male,Medical,15,4536.67,1.4,3.07
+Research & Development,Research Scientist,Mid,Male,Other,5,4513.0,1.8,3.2
+Research & Development,Research Scientist,Mid,Male,Technical Degree,6,4688.17,1.67,3.0
+Sales,Manager,High,Female,Life Sciences,9,16510.22,4.0,3.11
+Sales,Manager,High,Female,Marketing,7,17974.86,4.57,3.29
+Sales,Manager,High,Female,Medical,2,16010.5,4.0,3.5
+Sales,Manager,High,Female,Technical Degree,1,16872.0,4.0,3.0
+Sales,Manager,High,Male,Life Sciences,7,16922.43,4.14,3.29
+Sales,Manager,High,Male,Marketing,7,17696.0,4.57,3.14
+Sales,Manager,High,Male,Medical,3,16992.0,4.33,3.33
+Sales,Manager,High,Male,Technical Degree,1,11904.0,3.0,3.0
+Sales,Sales Executive,High,Female,Life Sciences,15,8852.2,2.73,3.2
+Sales,Sales Executive,High,Female,Marketing,26,9090.81,2.73,3.12
+Sales,Sales Executive,High,Female,Medical,10,8773.7,2.7,3.1
+Sales,Sales Executive,High,Female,Other,1,8412.0,3.0,3.0
+Sales,Sales Executive,High,Female,Technical Degree,4,9098.0,2.75,3.0
+Sales,Sales Executive,High,Male,Life Sciences,36,8943.64,2.64,3.06
+Sales,Sales Executive,High,Male,Marketing,32,9147.97,2.72,3.03
+Sales,Sales Executive,High,Male,Medical,18,9002.72,2.72,3.06
+Sales,Sales Executive,High,Male,Other,2,9098.0,3.0,3.0
+Sales,Sales Executive,High,Male,Technical Degree,8,8488.12,2.62,3.25
+Sales,Sales Executive,Mid,Female,Life Sciences,28,5239.93,2.0,3.11
+Sales,Sales Executive,Mid,Female,Marketing,27,5013.04,2.0,3.19
+Sales,Sales Executive,Mid,Female,Medical,14,5154.29,2.0,3.29
+Sales,Sales Executive,Mid,Female,Other,2,4953.0,2.0,4.0
+Sales,Sales Executive,Mid,Female,Technical Degree,5,5413.6,2.0,3.0
+Sales,Sales Executive,Mid,Male,Life Sciences,28,5175.82,2.0,3.14
+Sales,Sales Executive,Mid,Male,Marketing,37,5200.73,2.0,3.16
+Sales,Sales Executive,Mid,Male,Medical,23,4975.43,2.0,3.09
+Sales,Sales Executive,Mid,Male,Other,8,4922.5,2.0,3.25
+Sales,Sales Executive,Mid,Male,Technical Degree,2,5202.5,2.0,3.0
+Sales,Sales Representative,High,Male,Technical Degree,1,6632.0,2.0,3.0
+Sales,Sales Representative,Low,Female,Life Sciences,11,2443.64,1.0,3.09
+Sales,Sales Representative,Low,Female,Marketing,8,2557.38,1.0,3.12
+Sales,Sales Representative,Low,Female,Medical,10,2495.4,1.1,3.1
+Sales,Sales Representative,Low,Female,Other,1,2966.0,1.0,3.0
+Sales,Sales Representative,Low,Female,Technical Degree,5,2487.4,1.0,3.2
+Sales,Sales Representative,Low,Male,Life Sciences,13,2598.31,1.0,3.23
+Sales,Sales Representative,Low,Male,Marketing,13,2470.38,1.08,3.08
+Sales,Sales Representative,Low,Male,Medical,8,2108.0,1.12,3.25
+Sales,Sales Representative,Low,Male,Other,1,2121.0,1.0,3.0
+Sales,Sales Representative,Low,Male,Technical Degree,7,2377.0,1.14,3.14
+Sales,Sales Representative,Mid,Female,Life Sciences,2,4216.5,1.5,3.0
+Sales,Sales Representative,Mid,Female,Marketing,1,5405.0,2.0,4.0
+Sales,Sales Representative,Mid,Male,Life Sciences,1,4400.0,1.0,3.0
+Sales,Sales Representative,Mid,Male,Marketing,1,3875.0,1.0,3.0

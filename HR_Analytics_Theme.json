@@ -1,0 +1,178 @@
+{
+  "name": "HR Analytics Pro",
+  "dataColors": [
+    "#2E86AB",
+    "#A23B72",
+    "#F18F01",
+    "#C73E1D",
+    "#44BBA4",
+    "#E94F37",
+    "#3B1F2B",
+    "#393E41"
+  ],
+  "background": "#F0F4F8",
+  "foreground": "#2D3748",
+  "tableAccent": "#2E86AB",
+  "good": "#44BBA4",
+  "neutral": "#F18F01",
+  "bad": "#C73E1D",
+  "maximum": "#44BBA4",
+  "center": "#F18F01",
+  "minimum": "#C73E1D",
+  "null": "#E2E8F0",
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "fontFace": "Segoe UI Light",
+      "color": "#1A202C"
+    },
+    "title": {
+      "fontSize": 20,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1A202C"
+    },
+    "header": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#2D3748"
+    },
+    "label": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI",
+      "color": "#718096"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E2E8F0" } },
+            "radius": 8
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#CBD5E0" } },
+            "position": "outer",
+            "preset": "light"
+          }
+        ]
+      },
+      "title": [
+        {
+          "show": true,
+          "fontSize": 13,
+          "fontFamily": "Segoe UI Semibold",
+          "fontColor": { "solid": { "color": "#1A202C" } },
+          "background": { "solid": { "color": "#FFFFFF" } }
+        }
+      ]
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#718096" } },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "title": [{ "show": false }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "show": true,
+            "fontSize": 11,
+            "fontFamily": "Segoe UI",
+            "labelColor": { "solid": { "color": "#4A5568" } }
+          }
+        ],
+        "valueAxis": [
+          {
+            "show": true,
+            "gridlineShow": true,
+            "gridlineColor": { "solid": { "color": "#EDF2F7" } },
+            "gridlineStyle": "dashed"
+          }
+        ],
+        "dataLabels": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#2D3748" } },
+            "fontSize": 10
+          }
+        ]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "show": true,
+            "fontSize": 11,
+            "fontFamily": "Segoe UI",
+            "labelColor": { "solid": { "color": "#4A5568" } }
+          }
+        ],
+        "valueAxis": [
+          {
+            "show": true,
+            "gridlineShow": true,
+            "gridlineColor": { "solid": { "color": "#EDF2F7" } },
+            "gridlineStyle": "dashed"
+          }
+        ],
+        "dataLabels": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#2D3748" } },
+            "fontSize": 10
+          }
+        ]
+      }
+    },
+    "donutChart": {
+      "*": {
+        "legend": [
+          {
+            "show": true,
+            "fontSize": 11,
+            "fontFamily": "Segoe UI",
+            "labelColor": { "solid": { "color": "#4A5568" } }
+          }
+        ],
+        "dataLabels": [
+          {
+            "show": true,
+            "fontSize": 10
+          }
+        ]
+      }
+    },
+    "stackedBarChart": {
+      "*": {
+        "valueAxis": [
+          {
+            "gridlineShow": true,
+            "gridlineColor": { "solid": { "color": "#EDF2F7" } }
+          }
+        ]
+      }
+    }
+  }
+}
